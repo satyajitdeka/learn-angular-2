@@ -4,15 +4,27 @@
 This repository acts as a very simple Angular 2 Beta Setup with which you can get started developing Angular 2 immediately.
 It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
 ## Usage
-Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
+Follow the following steps and you're good to go!
 
-1: Make a copy 
+1: Make a copy this folder
 
-2: Install packages
+2: Install nodeJS
+```
+https://nodejs.org/en/
+```
+3: Install typeScript
+```
+http://www.typescriptlang.org/
+```
+4: Install gulpJS
+```
+http://gulpjs.com/
+```
+5: Install packages
 ```
 npm install
 ```
-3: Start server (includes auto refreshing) and gulp watcher
+6: Start server (includes auto refreshing) and gulp watcher
 ```
 npm start
 ```
