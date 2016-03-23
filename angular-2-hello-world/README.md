@@ -1,4 +1,4 @@
-# Angular 2 Beta Hellow World
+# Angular 2 Beta Hello World
 
 ## Description
 This repository acts as a very simple Angular 2 Beta Setup with which you can get started developing Angular 2 immediately.

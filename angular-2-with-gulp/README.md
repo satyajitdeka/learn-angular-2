@@ -28,3 +28,5 @@ npm install
 ```
 npm start
 ```
+
+And see @ http://localhost:3000/ 
