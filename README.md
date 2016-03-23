@@ -1,1 +1,2 @@
-This is all about Angular 2
+angular-2-hello-world
+angular-2-hello-world-with-gulp
