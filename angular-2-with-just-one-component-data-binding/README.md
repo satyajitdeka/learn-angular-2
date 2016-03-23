@@ -1,7 +1,7 @@
 # Angular 2 Beta Setup
 
 ## Description
-This repository acts as a very simple Angular 2 Beta Setup with which you can get started developing Angular 2 immediately.
+This repository refers to the single component and its data binding behavior.
 It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
 ## Usage
 Follow the following steps and you're good to go!
