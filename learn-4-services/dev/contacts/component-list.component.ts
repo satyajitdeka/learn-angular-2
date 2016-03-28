@@ -15,7 +15,7 @@ import {CONTACTS} from "./data-contacts";
     `,
     directives: [ContactDetailComponent],
     providers: [ContactService],
-    styleUrls: ["../src/css/app.css"]
+    styleUrls: ["../src/css/contact.css"]
 })
 
 export class ContactListComponent implements OnInit{
