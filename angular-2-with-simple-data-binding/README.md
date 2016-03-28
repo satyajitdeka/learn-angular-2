@@ -1,7 +1,7 @@
 # Angular 2 Beta Setup
 
 ## Description
-This repository refers to the use of multiple components and its data binding behaviour.
+This repository refers to the simple data binding behaviour.
 It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
 ## Usage
 Follow the following steps and you're good to go!
