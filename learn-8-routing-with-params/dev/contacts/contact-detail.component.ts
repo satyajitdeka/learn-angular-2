@@ -17,7 +17,7 @@ import {Contact} from "./contact";
         <label>Phone</label>
         <input [(ngModel)]="contact.phone" type="text">
     </div>
-    <button (click)="createNew()">Create new contact from existing one</button>
+    <button (click)="createNew()">Route name as param</button>
     `,
     inputs: ["contact"],
     styles: [`
