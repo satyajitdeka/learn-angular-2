@@ -1,5 +1,5 @@
 import {Component} from 'angular2/core';
-import {ContactListComponent} from './contacts/component-list.component';
+import {ContactListComponent} from './contacts/contact-list.component';
 import {ROUTER_DIRECTIVES, RouteConfig} from "angular2/router";
 import {NewContactDetailComponent} from "./contacts/new-contact.component";
 

@@ -1,5 +1,5 @@
 import {Component, OnInit} from 'angular2/core';
-import {ContactDetailComponent} from './component-detail.component';
+import {ContactDetailComponent} from './contact-detail.component';
 import {ContactService} from "./contact.service";
 import {Contact} from "./contact";
 import {CONTACTS} from "./data-contacts";

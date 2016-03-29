@@ -1,5 +1,5 @@
 import {Component} from 'angular2/core';
-import {ContactDetailComponent} from './component-detail.component';
+import {ContactDetailComponent} from './contact-detail.component';
 
 @Component({
     selector: 'contact-list',
@@ -16,7 +16,7 @@ import {ContactDetailComponent} from './component-detail.component';
 export class ContactListComponent {
     public myContact = [
                         {name: "Satyajit Deka", addres: "Guwahati", phone: "123456789"},
-                        {name: "Ramesh Pathak", addres: "Mumbai", phone: "854796213"}
+                        {name: "Ramesh Pathak", addres: "Mumbai", phone: "854796213"},
                         {name: "Suresh Dev", addres: "Bihar", phone: "325469871"}
                        ];
     
