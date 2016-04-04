@@ -1,0 +1,23 @@
+body {
+  padding: 5px;
+  margin: 5px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.main {
+  width: 75%;
+  margin: 32px auto;
+}
+
+.parent {
+  background-color: lightblue;
+  padding: 30px;
+  width: 80%;
+}
+
+.child {
+  background-color: lightgrey;
+  margin-top: 30px;
+  padding: 10px;
+}
