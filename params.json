@@ -1,0 +1,6 @@
+{
+  "name": "Learn angular 2",
+  "tagline": "Angular 2 Beta Setup & Examples",
+  "body": "# Angular 2 Beta Setup & Examples\r\n\r\n## Description\r\nThis repository refers to the use of angular 2 with root concepts.\r\nIt is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).\r\n## Usage\r\nFollow the following steps and you're good to go!\r\n\r\n1: Make a copy of any example\r\n\r\n2: Install nodeJS\r\n```\r\nhttps://nodejs.org/en/\r\n```\r\n3: Install typeScript\r\n```\r\nhttp://www.typescriptlang.org/\r\n```\r\n4: Install gulpJS\r\n```\r\nhttp://gulpjs.com/\r\n```\r\n5: Install packages\r\n```\r\nnpm install\r\n```\r\n6: Start server (includes auto refreshing) and gulp watcher\r\n```\r\nnpm start\r\n```\r\n\r\nAnd see @ http://localhost:3000/ ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
